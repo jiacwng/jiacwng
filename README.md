@@ -26,18 +26,18 @@ I work at the intersection of **reverse engineering**, **binary analysis**, and 
 
 ### 🧩 CTF & Practice
 
-
 [![HackTheBox](https://www.hackthebox.com/badge/image/019e0e2a-0f6a-7023-941e-cca8ff698b60)](https://app.hackthebox.com/profile/019e0e2a-0f6a-7023-941e-cca8ff698b60)
-[![picoCTF](https://img.shields.io/badge/picoCTF-Academy%20Profile-red?style=for-the-badge&logo=target&logoColor=white)](https://learn.cylabacademy.org/profile)
+
+[![picoCTF](https://img.shields.io/badge/picoCTF-jiacwng-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://learn.cylabacademy.org/users/jiacwng)
 
 --
 
 ### 📚 Education
 
-**EURECOM, Mines-Télécom** · Diplôme d'Ingénieur — Digital Security (2026)
+**EURECOM, Mines-Télécom** · Diplôme d'Ingénieur — Digital Security (2023 - 2026)
 Modules: Secure Communications · System & Network Security · Digital Forensics · Hardware Security · Android Mobile Security · Multiparty Computation & Blockchains
 
-**Lycée Descartes, Tours** · CPGE MPI (2023)
+**Lycée Descartes, Tours** · CPGE MPI (2021-2023)
 Advanced mathematics, formal logic, automata theory, complexity analysis · OCaml & C
 
 ---
