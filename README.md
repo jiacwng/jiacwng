@@ -26,7 +26,9 @@ I work at the intersection of **reverse engineering**, **binary analysis**, and 
 
 ### 🧩 CTF & Practice
 
+
 [![HackTheBox](https://www.hackthebox.com/badge/image/019e0e2a-0f6a-7023-941e-cca8ff698b60)](https://app.hackthebox.com/profile/019e0e2a-0f6a-7023-941e-cca8ff698b60)
+[![picoCTF](https://img.shields.io/badge/picoCTF-Academy%20Profile-red?style=for-the-badge&logo=target&logoColor=white)](https://learn.cylabacademy.org/profile)
 
 --
 
