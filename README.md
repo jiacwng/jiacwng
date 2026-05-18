@@ -26,11 +26,27 @@ I work at the intersection of **reverse engineering**, **binary analysis**, and 
 
 ### 🧩 CTF & Practice
 
-[![HackTheBox](https://www.hackthebox.com/badge/image/019e0e2a-0f6a-7023-941e-cca8ff698b60)](https://app.hackthebox.com/profile/019e0e2a-0f6a-7023-941e-cca8ff698b60)
+<p align="left">
+  <a href="https://app.hackthebox.com/profile/019e0e2a-0f6a-7023-941e-cca8ff698b60" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/019e0e2a-0f6a-7023-941e-cca8ff698b60" alt="HackTheBox" />
+  </a>
+</p>
 
-[![picoCTF](https://img.shields.io/badge/picoCTF-jiacwng-red?style=for-the-badge&logo=fortinet&logoColor=white)](https://learn.cylabacademy.org/users/jiacwng)
+<p align="left">
+  <a href="https://learn.cylabacademy.org/users/jiacwng" target="_blank">
+    <img src="https://img.shields.io/badge/picoCTF-jiacwng-red?style=for-the-badge&logo=fortinet&logoColor=white" alt="picoCTF Profile" height="40"/>
+  </a>
+  <a href="https://www.root-me.org/Jiach-841817?inc=info&lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/Root--Me-Jiach-black?style=for-the-badge&logo=rootme&logoColor=white" alt="Root-Me Profile" height="40"/>
+  </a>
+</p>
 
---
+**Detailed Root-Me Progress:**
+<p align="left">
+  <a href="https://www.root-me.org/Jiach-841817?inc=info&lang=en" target="_blank">
+    <img src="https://api.g7kk.com/rootme/Jiach-841817" alt="Jiach's Root-Me Stats" />
+  </a>
+</p>
 
 ### 📚 Education
 
