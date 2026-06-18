@@ -41,12 +41,6 @@ I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Gr
   </a>
 </p>
 
-**Detailed Root-Me Progress:**
-<p align="left">
-  <a href="https://www.root-me.org/Jiach-841817?inc=info&lang=en" target="_blank">
-    <img src="https://api.g7kk.com/rootme/Jiach-841817" alt="Jiach's Root-Me Stats" />
-  </a>
-</p>
 
 ---
 
