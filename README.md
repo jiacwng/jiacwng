@@ -1,6 +1,6 @@
 ## Hi, I'm Jiacheng 👋
 
-I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Grande École* engineering school, where I follow the **Digital Security** track and graduate in 2026. I'm broadly passionate about cybersecurity — from reverse engineering and binary analysis to network, system, and forensic security — built on a strong low-level systems background and the rigorous math-and-CS foundations of the French preparatory-class (*classes préparatoires*) curriculum. I enjoy taking on hands-on technical challenges, and I'm increasingly drawn to applying machine learning to security problems.
+I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Grande École* engineering school, where I follow the **Digital Security** track and graduate in 2026. I'm broadly passionate about cybersecurity, built on a strong low-level systems background and the rigorous math-and-CS foundations of the French preparatory-class (*classes préparatoires*) curriculum. I enjoy taking on hands-on technical challenges, and I'm increasingly drawn to applying machine learning to security problems.
 
 ---
 
