@@ -1,26 +1,26 @@
 ## Hi, I'm Jiacheng 👋
 
-Final-year engineering student at **[EURECOM](https://www.eurecom.fr/)** (Digital Security track), graduating 2026.
-I work at the intersection of **reverse engineering**, **binary analysis**, and **machine learning** — with a strong pull toward low-level systems.
+I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Grande École* engineering school, where I follow the **Digital Security** track and graduate in 2026. I'm broadly passionate about cybersecurity — from reverse engineering and binary analysis to network, system, and forensic security — built on a strong low-level systems background and the rigorous math-and-CS foundations of the French preparatory-class (*classes préparatoires*) curriculum. I enjoy taking on hands-on technical challenges, and I'm increasingly drawn to applying machine learning to security problems.
 
 ---
 
-### 🔧 What I work with
+### 🧰 What I work with
 
-| Area | Tools & Languages |
+| Area | Tools & Topics |
 |---|---|
-| Reverse Engineering | IDA Pro · Ghidra · x86/x86-64 Assembly |
-| Security | Digital Forensics · Network Security · Android Security · Hardware Security |
-| Languages | C · C++ · Python · OCaml · Assembly (RISC-V, ARM) · JavaScript |
-| Frameworks | React · Express.js · OpenCV · Mediapipe · Scapy |
+| Security | Reverse Engineering · Binary Analysis · Digital Forensics · System & Network Security · Hardware Security · Android & Mobile Security · Secure Communications · Cryptography · Multiparty Computation & Blockchains |
+| Reverse Engineering | IDA Pro · Ghidra · RISC-V · ARM Assembly |
+| Languages | C · C++ · Python · OCaml · Java · JavaScript · Assembly · SQL |
+| Web & Frameworks | React · Express.js · Node.js · HTML / CSS |
+| Languages | French · Mandarin · English |
 
 ---
 
 ### 📌 Featured work
 
-- 🔬 **[Mnemocrypt](https://github.com/jiacwng/mnemocrypt)** — ML-based IDA Pro plugin for cryptographic function detection in x86/x86-64 binaries. Core feature extraction in C++ via the IDA Pro SDK.
-- 🌐 **[Reva2](https://github.com/jiacwng/reva2)** — Secure full-stack React/Express app built with defense-in-depth: security headers, strict CORS, rate-limiting, environment-based secrets.
-- 🕹️ **Ultimate Tic-Tac-Toe** — AI with alpha-beta pruning, real-time hand tracking via OpenCV/Mediapipe, and TCP-based multiplayer protocol.
+- 🚩 **[CTF Write-ups](https://github.com/jiacwng/ctf-writeups)** — Walkthroughs and exploit chains of CTF challenges and security labs from picoCTF, TryHackMe, and Root-Me, organized by category: web exploitation, cryptography, forensics, reverse engineering, binary exploitation, and more.
+- 🔐 **[Mnemocrypt-Enhanced](https://github.com/jiacwng/mnemocrypt-enhanced)** — Machine-learning detection of cryptographic functions in x86 / x86-64 binaries, packaged as an IDA Pro plugin that color-codes functions by confidence using a random-forest classifier over instruction-level features.
+- 🦠 **[Malfamily](https://github.com/jiacwng/malfamily)** — A machine-learning approach to malware-family classification, building feature vectors from x86 / x86-64 instruction-mnemonic roots grouped by semantic category.
 
 ---
 
@@ -48,14 +48,16 @@ I work at the intersection of **reverse engineering**, **binary analysis**, and 
   </a>
 </p>
 
-### 📚 Education
+---
 
-**EURECOM, Mines-Télécom** · Diplôme d'Ingénieur — Digital Security (2023 - 2026)
+### 🎓 Education
+
+**EURECOM, Mines-Télécom** · Diplôme d'Ingénieur — Digital Security (2024 - 2026)
 Modules: Secure Communications · System & Network Security · Digital Forensics · Hardware Security · Android Mobile Security · Multiparty Computation & Blockchains
 
-**Lycée Descartes, Tours** · CPGE MPI (2021-2023)
+**Lycée Descartes, Tours** · CPGE MP2I/MPI (2021 - 2023)
 Advanced mathematics, formal logic, automata theory, complexity analysis · OCaml & C
 
 ---
 
-📫 jiacheng.wang@eurecom.fr · Sophia Antipolis / Paris, France
+📫 jiacheng.wang@eurecom.fr · Sophia Antipolis / Antibes, France
