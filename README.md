@@ -50,7 +50,7 @@ I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Gr
 Modules: Secure Communications · System & Network Security · Digital Forensics · Hardware Security · Android Mobile Security · Multiparty Computation & Blockchains
 
 **Lycée Descartes, Tours** · CPGE MP2I/MPI (2021 - 2023)
-Advanced mathematics, formal logic, automata theory, complexity analysis · OCaml & C
+Advanced mathematics, Probabilities,formal logic, automata theory, complexity analysis · OCaml & C
 
 ---
 
