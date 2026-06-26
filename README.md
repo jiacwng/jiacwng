@@ -26,11 +26,6 @@ I'm a final-year student at **[EURECOM](https://www.eurecom.fr/)**, a French *Gr
 
 ### 🧩 CTF & Practice
 
-<p align="left">
-  <a href="https://app.hackthebox.com/profile/019e0e2a-0f6a-7023-941e-cca8ff698b60" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/019e0e2a-0f6a-7023-941e-cca8ff698b60" alt="HackTheBox" />
-  </a>
-</p>
 
 <p align="left">
   <a href="https://learn.cylabacademy.org/users/jiacwng" target="_blank">
