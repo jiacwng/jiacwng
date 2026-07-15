@@ -66,4 +66,3 @@ Advanced mathematics, probability, formal logic, automata theory, complexity ana
 ### Contact
 
 📍 Paris, France  
-📫 [jiacheng.wang@eurecom.fr](mailto:jiacheng.wang@eurecom.fr)
