@@ -6,6 +6,8 @@ and triage.
 
 > Seeking a six-month cybersecurity internship outside France from September 2026.
 > EURECOM provides the *convention de stage*.
+>
+> [**Resume**](https://github.com/jiacwng/jiacwng/blob/main/jiacheng-wang-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/jiacheng-wang-a9b55a252/)
 
 ### Projects
 
