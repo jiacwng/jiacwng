@@ -43,6 +43,11 @@ AIT-ADS benchmark, against 33 for native detector severity.
 Cryptographic function detection. I fixed an IDA Pro plugin that misread compression
 code as cryptography. False positives on held-out goodware went from **48 to 9**,
 precision from **0.60 to 0.86**.
+**[mnemocrypt-enhanced](https://github.com/jiacwng/mnemocrypt-enhanced)**
+
+Cryptographic function detection. I fixed an IDA Pro plugin that misread compression
+code as cryptography. False positives on held-out goodware went from **48 to 9**,
+precision from **0.60 to 0.86**.
 
 `Python` `IDA Pro` `x86-64` `scikit-learn`
 
@@ -56,6 +61,11 @@ precision from **0.60 to 0.86**.
 ---
 
 jiacheng.wang@eurecom.fr · Paris, France · Mandarin, French, English (TOEIC 930)
+
+I am looking for a six-month cybersecurity internship outside France from September
+2026, and EURECOM provides the internship agreement.
+[Resume](https://github.com/jiacwng/jiacwng/blob/main/jiacheng-wang-resume.pdf) ·
+[LinkedIn](https://www.linkedin.com/in/jiacheng-wang-a9b55a252/)
 
 I am looking for a six-month cybersecurity internship outside France from September
 2026, and EURECOM provides the internship agreement.
