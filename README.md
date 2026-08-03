@@ -1,8 +1,10 @@
 ## Jiacheng Wang
 
-Final-year Digital Security engineering student at [EURECOM](https://www.eurecom.fr/).
-I work on reverse engineering, malware analysis, and machine learning applied to
+Hello there ! 
+I am Jiacheng, a final-year Digital Security engineering student at [EURECOM](https://www.eurecom.fr/).
+I work on RE, malware analysis, and machine learning applied to
 detection and triage.
+Open to collaborations ! Always happy to connect.
 
 ### Working on now
 
