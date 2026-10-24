@@ -10,9 +10,9 @@ Open to collaborations, always happy to connect.
 **[deskclerk](https://github.com/jiacwng/deskclerk)**
 
 An internal AI agent that works on a company's MCP servers with each employee's own
-accounts. Company sign-in with OpenID Connect, per-employee OAuth tokens, spending limits,
-an audit log, and a prompt injection screen on every tool result. Benchmarked on
-WorkBench and AgentDojo.
+accounts. Company sign-in with OpenID Connect, per-employee OAuth tokens, MCP tool pinning,
+spending limits, an audit log, and a prompt injection screen on every tool result. Tested on
+Linear's hosted MCP server and benchmarked on WorkBench and AgentDojo.
 
 `Python` `FastAPI` `LangChain` `MCP` `OpenID Connect` `Docker`
 
